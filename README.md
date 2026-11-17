@@ -45,11 +45,6 @@ The result is a report you can actually trust — and act on.
 - **Bundled sample network** — a full 192.168.1.0/24 dataset ships inside
   the app, so the whole workflow can be explored without a live scan.
 
-## Screenshots
-
-| Scan results & patch review |
-|---|
-| ![Results](screenshot-results.png) |
 
 ## Getting Started
 
